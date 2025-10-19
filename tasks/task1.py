@@ -2,7 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-        word=input()
+    word=input()
     print(word + " " + word + " " + word + " " + word)
         
 # Код ниже не трогать! он нужен для тестов
